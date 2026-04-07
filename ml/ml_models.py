@@ -117,3 +117,29 @@ plt.savefig(r'C:\Users\divya\Documents\challenge-packaging-analysis\ml\revenue_f
 plt.show()
 
 print("\nChart saved!")
+
+# ── MODEL V3: Adding Attendance Data ──
+print("\n── Model V3: With Attendance Feature ──")
+
+attendance_data = {
+    'Month_Num':        [1,2,3,4,5,6,7,8,9,10,11,12],
+    'Month_Of_Year':    [4,5,6,7,8,9,10,11,12,1,2,3],
+    'Avg_Days_Present': [21.1,24.8,27.4,29.1,28.1,28.6,
+                         29.0,26.6,28.4,28.6,26.6,26.7]
+}
+monthly_v3 = pd.DataFrame(attendance_data)
+monthly_v3['Sin_Month'] = np.sin(2*np.pi*monthly_v3['Month_Of_Year']/12)
+monthly_v3['Cos_Month'] = np.cos(2*np.pi*monthly_v3['Month_Of_Year']/12)
+monthly_v3['Revenue'] = y
+
+X_v3 = monthly_v3[['Month_Num','Sin_Month',
+                    'Cos_Month','Avg_Days_Present']].values
+model_v3 = LinearRegression()
+model_v3.fit(X_v3, y)
+
+y_pred_v3 = model_v3.predict(X_v3)
+print(f"V2 → R²: 0.604  MAE: ₹1,39,104")
+print(f"V3 → R²: {r2_score(y, y_pred_v3):.3f}  "
+      f"MAE: ₹{mean_absolute_error(y, y_pred_v3):,.0f}")
+print("New feature added: Avg worker attendance days per month")
+print("Business insight: April low revenue explained by low attendance (21.1 days)")
