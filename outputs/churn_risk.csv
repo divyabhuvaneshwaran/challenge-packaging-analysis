@@ -1,0 +1,39 @@
+Customer,Churn_Status,Days_Since_Last,Revenue_Lakhs,Revenue_2425_L,Revenue_2526_L,Revenue_Change_L,Revenue_Change_%,Total_Orders,Orders_2425,Orders_2526,First_Purchase,Last_Purchase,Revenue_At_Risk_L,Recommended_Action
+DAESEUNG AUTOPARTS INDIA PVT LTD,Churned,551,8.81,8.81,0.0,-8.81,-100.0,6,6.0,0.0,2024-07-26,2024-09-26,8.81,"Urgent — personal call from Bhuvanesh, understand why they left"
+Red Star Plastick Pvt Ltd,Churned,595,4.67,4.67,0.0,-4.67,-100.0,10,10.0,0.0,2024-04-02,2024-08-13,4.67,"Urgent — personal call from Bhuvanesh, understand why they left"
+Talon Tack Private Limited,Churned,476,4.51,4.51,0.0,-4.51,-100.0,11,11.0,0.0,2024-05-25,2024-12-10,4.51,"Urgent — personal call from Bhuvanesh, understand why they left"
+NEST PACCAGING,Churned,643,3.54,3.54,0.0,-3.54,-100.0,4,4.0,0.0,2024-04-29,2024-06-26,3.54,"Urgent — personal call from Bhuvanesh, understand why they left"
+JUPITER PETROTEC PRODUCTS,Churned,386,0.51,0.51,0.0,-0.51,-100.0,2,2.0,0.0,2025-02-04,2025-03-10,0.51,"Urgent — personal call from Bhuvanesh, understand why they left"
+Attractive Labels and Packaging,Churned,398,0.34,0.34,0.0,-0.34,-100.0,1,1.0,0.0,2025-02-26,2025-02-26,0.34,"Urgent — personal call from Bhuvanesh, understand why they left"
+Sree Ramu Speciality Surfactants Private Limited,Churned,671,0.31,0.31,0.0,-0.31,-100.0,1,1.0,0.0,2024-05-29,2024-05-29,0.31,"Urgent — personal call from Bhuvanesh, understand why they left"
+Phoenix Medical Systems Pvt Ltd,Churned,629,0.22,0.22,0.0,-0.22,-100.0,2,2.0,0.0,2024-07-03,2024-07-10,0.22,"Urgent — personal call from Bhuvanesh, understand why they left"
+Innovative Packaging Solutions,Churned,488,0.14,0.14,0.0,-0.14,-100.0,1,1.0,0.0,2024-11-28,2024-11-28,0.14,"Urgent — personal call from Bhuvanesh, understand why they left"
+RANE ENGINE VALVE LTD,High Risk,243,8.4,5.69,2.71,-2.98,-52.3,37,25.0,12.0,2024-05-20,2025-07-31,8.4,Re-engage immediately — offer incentive or check satisfaction
+HONEST PACK ENGINEERING,High Risk,362,2.55,2.47,0.08,-2.39,-97.0,12,11.0,1.0,2024-05-16,2025-04-03,2.55,Re-engage immediately — offer incentive or check satisfaction
+SURYA ENTERPRISES,High Risk,182,1.45,0.65,0.8,0.15,22.0,7,4.0,3.0,2024-11-02,2025-09-30,1.45,Re-engage immediately — offer incentive or check satisfaction
+Genuine Biosystem Pvt Ltd.,Medium Risk,146,11.64,8.46,3.18,-5.28,-62.4,23,18.0,5.0,2024-05-24,2025-11-05,11.64,Follow up this week — confirm next order timeline
+ATPS Engineering Pvt Ltd,Medium Risk,104,3.09,1.61,1.48,-0.13,-7.7,20,13.0,7.0,2024-04-01,2025-12-17,3.09,Follow up this week — confirm next order timeline
+Regenix Drugs Group,Low Risk,63,20.47,13.56,6.91,-6.65,-49.0,74,42.0,32.0,2024-04-02,2026-01-27,0.0,Check in — ensure no issues with last delivery
+Standex Electronics India Pvt Ltd,Low Risk,67,13.22,4.35,8.87,4.52,103.7,32,14.0,18.0,2024-04-10,2026-01-23,0.0,Check in — ensure no issues with last delivery
+NIBU HYGIENE & CARE PVT LTD,Low Risk,41,1.47,0.75,0.72,-0.03,-3.7,5,2.0,3.0,2024-05-23,2026-02-18,0.0,Check in — ensure no issues with last delivery
+SUNDRAM FASTENERS LIMITED,Active,1,457.21,217.72,239.5,21.78,10.0,1324,586.0,738.0,2024-04-01,2026-03-30,0.0,Maintain — keep service quality high
+Red Star Polymers Pvt Ltd,Active,3,53.14,18.54,34.6,16.06,86.6,81,25.0,56.0,2024-09-13,2026-03-28,0.0,Maintain — keep service quality high
+J. C Packaging,Active,0,25.08,12.06,13.02,0.96,7.9,374,188.0,186.0,2024-04-02,2026-03-31,0.0,Maintain — keep service quality high
+CHRISTI TRADERS,Active,8,15.18,8.06,7.11,-0.95,-11.8,23,12.0,11.0,2024-04-09,2026-03-23,0.0,Maintain — keep service quality high
+ASUS Technology Pvt Ltd,Active,14,8.84,3.52,5.32,1.8,51.3,19,9.0,10.0,2024-06-28,2026-03-17,0.0,Maintain — keep service quality high
+Cook India Medical Devices Pvt Ltd,Active,19,7.32,3.01,4.31,1.3,43.2,14,6.0,8.0,2024-07-09,2026-03-12,0.0,Maintain — keep service quality high
+Compack Packaging Private Ltd,Active,5,5.57,3.08,2.49,-0.59,-19.1,18,9.0,9.0,2024-05-30,2026-03-26,0.0,Maintain — keep service quality high
+Sree Sastha Packers,Active,4,4.46,2.05,2.41,0.36,17.5,70,35.0,35.0,2024-04-03,2026-03-27,0.0,Maintain — keep service quality high
+KMD PRECISION PRODUCTS,New Customer,3,24.77,0.0,24.77,24.77,,10,0.0,10.0,2025-11-03,2026-03-28,0.0,"Nurture — ensure smooth onboarding, follow up on experience"
+WITZENMANN INDIA PRIVATE LIMITED,New Customer,53,6.58,0.0,6.58,6.58,,10,0.0,10.0,2025-04-08,2026-02-06,0.0,"Nurture — ensure smooth onboarding, follow up on experience"
+RANE (MADRAS) LIMITED,New Customer,77,2.63,0.0,2.63,2.63,,9,0.0,9.0,2025-11-26,2026-01-13,0.0,"Nurture — ensure smooth onboarding, follow up on experience"
+3PHALA AYURCENTRE PRIVATE LIMITED,New Customer,63,2.09,0.0,2.09,2.09,,7,0.0,7.0,2025-05-15,2026-01-27,0.0,"Nurture — ensure smooth onboarding, follow up on experience"
+SUDARSAN MADRAS ENGINEERING PRIVATE LIMITED,New Customer,0,1.09,0.0,1.09,1.09,,4,0.0,4.0,2025-12-13,2026-03-31,0.0,"Nurture — ensure smooth onboarding, follow up on experience"
+OUTLOOK IMPEX,New Customer,48,0.57,0.0,0.57,0.57,,1,0.0,1.0,2026-02-11,2026-02-11,0.0,"Nurture — ensure smooth onboarding, follow up on experience"
+FINKOTECH APPRYEL PRIVATE LIMITED,New Customer,360,0.48,0.0,0.48,0.48,,1,0.0,1.0,2025-04-05,2025-04-05,0.0,"Nurture — ensure smooth onboarding, follow up on experience"
+Marks Biotech Inc.,New Customer,104,0.37,0.0,0.37,0.37,,1,0.0,1.0,2025-12-17,2025-12-17,0.0,"Nurture — ensure smooth onboarding, follow up on experience"
+G.T. PRODUCTS PRIVATE LIMITED,New Customer,319,0.36,0.0,0.36,0.36,,1,0.0,1.0,2025-05-16,2025-05-16,0.0,"Nurture — ensure smooth onboarding, follow up on experience"
+HERAVI PINK STORE PRIVATE LIMITED,New Customer,336,0.33,0.0,0.33,0.33,,1,0.0,1.0,2025-04-29,2025-04-29,0.0,"Nurture — ensure smooth onboarding, follow up on experience"
+FACIL INDIA PRIVATE LIMITED,New Customer,206,0.11,0.0,0.11,0.11,,1,0.0,1.0,2025-09-06,2025-09-06,0.0,"Nurture — ensure smooth onboarding, follow up on experience"
+PROFIN ENTERPRISES,New Customer,35,0.03,0.0,0.03,0.03,,2,0.0,2.0,2026-02-04,2026-02-24,0.0,"Nurture — ensure smooth onboarding, follow up on experience"
+KS Designs,New Customer,99,0.01,0.0,0.01,0.01,,1,0.0,1.0,2025-12-22,2025-12-22,0.0,"Nurture — ensure smooth onboarding, follow up on experience"
