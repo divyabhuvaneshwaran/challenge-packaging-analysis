@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 700" width="1280" height="700">
+  <defs>
+    <radialGradient id="rg1" cx="75%" cy="21%" r="55%">
+      <stop offset="0%" stop-color="#3A2000" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#2A1000" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#060608" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rg2" cx="15%" cy="88%" r="40%">
+      <stop offset="0%" stop-color="#2A1200" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#060608" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bf1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5A623" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#C47A00" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="bt1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F5A623" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#F5A623" stop-opacity="0.06"/>
+    </linearGradient>
+    <linearGradient id="bs1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F5A623" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#F5A623" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="bf2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0.01"/>
+    </linearGradient>
+    <linearGradient id="bt2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0.02"/>
+    </linearGradient>
+    <filter id="softglow"><feGaussianBlur stdDeviation="22"/></filter>
+    <filter id="glow2"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>  <rect width="1280" height="700" fill="#060608"/>
+  <rect width="1280" height="700" fill="url(#rg1)"/>
+  <rect width="1280" height="700" fill="url(#rg2)"/>
+  <ellipse cx="950" cy="108" rx="285" ry="165" fill="#F5A623" fill-opacity="0.08" filter="url(#softglow)"/>
+  <ellipse cx="1030" cy="42" rx="138" ry="84" fill="#F5A623" fill-opacity="0.12" filter="url(#glow2)"/>
+<g transform="translate(690,25)" opacity="0.85">
+  <polygon points="0,53 195,53 195,209 0,209" fill="url(#bf1)" stroke="#F5A623" stroke-width="0.7" stroke-opacity="0.28"/>
+  <polygon points="0,53 26,0 221,0 195,53" fill="url(#bt1)" stroke="#F5A623" stroke-width="0.7" stroke-opacity="0.32"/>
+  <polygon points="195,53 221,0 221,156 195,209" fill="url(#bs1)" stroke="#F5A623" stroke-width="0.7" stroke-opacity="0.18"/>
+  <line x1="97,53" x2="97,209" stroke="#F5A623" stroke-width="0.45" stroke-opacity="0.14"/>
+  <line x1="0,105" x2="195,105" stroke="#F5A623" stroke-width="0.4" stroke-opacity="0.1"/>
+  <polygon points="0,53 97,53 84,27 -14,27" fill="#F5A623" fill-opacity="0.1" stroke="#F5A623" stroke-width="0.5" stroke-opacity="0.22"/>
+  <polygon points="97,53 195,53 208,27 110,27" fill="#F5A623" fill-opacity="0.07" stroke="#F5A623" stroke-width="0.5" stroke-opacity="0.18"/>
+</g>
+<g transform="translate(960,330)" opacity="0.5">
+  <polygon points="0,30 108,30 108,116 0,116" fill="url(#bf1)" stroke="#F5A623" stroke-width="0.7" stroke-opacity="0.28"/>
+  <polygon points="0,30 15,0 123,0 108,30" fill="url(#bt1)" stroke="#F5A623" stroke-width="0.7" stroke-opacity="0.32"/>
+  <polygon points="108,30 123,0 123,86 108,116" fill="url(#bs1)" stroke="#F5A623" stroke-width="0.7" stroke-opacity="0.18"/>
+  <line x1="54,30" x2="54,116" stroke="#F5A623" stroke-width="0.45" stroke-opacity="0.14"/>
+  <line x1="0,58" x2="108,58" stroke="#F5A623" stroke-width="0.4" stroke-opacity="0.1"/>
+  <polygon points="0,30 54,30 47,15 -8,15" fill="#F5A623" fill-opacity="0.1" stroke="#F5A623" stroke-width="0.5" stroke-opacity="0.22"/>
+  <polygon points="54,30 108,30 115,15 61,15" fill="#F5A623" fill-opacity="0.07" stroke="#F5A623" stroke-width="0.5" stroke-opacity="0.18"/>
+</g>
+<g transform="translate(1070,75)" opacity="0.36">
+  <polygon points="0,22 82,22 82,88 0,88" fill="url(#bf1)" stroke="#F5A623" stroke-width="0.7" stroke-opacity="0.28"/>
+  <polygon points="0,22 11,0 93,0 82,22" fill="url(#bt1)" stroke="#F5A623" stroke-width="0.7" stroke-opacity="0.32"/>
+  <polygon points="82,22 93,0 93,66 82,88" fill="url(#bs1)" stroke="#F5A623" stroke-width="0.7" stroke-opacity="0.18"/>
+  <line x1="41,22" x2="41,88" stroke="#F5A623" stroke-width="0.45" stroke-opacity="0.14"/>
+  <line x1="0,44" x2="82,44" stroke="#F5A623" stroke-width="0.4" stroke-opacity="0.1"/>
+  <polygon points="0,22 41,22 36,11 -6,11" fill="#F5A623" fill-opacity="0.1" stroke="#F5A623" stroke-width="0.5" stroke-opacity="0.22"/>
+  <polygon points="41,22 82,22 87,11 46,11" fill="#F5A623" fill-opacity="0.07" stroke="#F5A623" stroke-width="0.5" stroke-opacity="0.18"/>
+</g>
+<g transform="translate(905,158)" opacity="0.68">
+  <polygon points="0,42 152,42 152,164 0,164" fill="url(#bf2)" stroke="rgba(255,255,255,0.12)" stroke-width="0.7"/>
+  <polygon points="0,42 21,0 173,0 152,42" fill="url(#bt2)" stroke="rgba(255,255,255,0.1)" stroke-width="0.7"/>
+  <polygon points="152,42 173,0 173,122 152,164" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.07)" stroke-width="0.7"/>
+  <line x1="76" y1="42" x2="76" y2="164" stroke="rgba(255,255,255,0.06)" stroke-width="0.4"/>
+  <polygon points="0,42 76,42 66,21 -11,21" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.09)" stroke-width="0.5"/>
+  <polygon points="76,42 152,42 162,21 86,21" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.07)" stroke-width="0.5"/>
+</g>
+<g transform="translate(610,455)" opacity="0.3">
+  <polygon points="0,35 128,35 128,137 0,137" fill="url(#bf2)" stroke="rgba(255,255,255,0.12)" stroke-width="0.7"/>
+  <polygon points="0,35 17,0 145,0 128,35" fill="url(#bt2)" stroke="rgba(255,255,255,0.1)" stroke-width="0.7"/>
+  <polygon points="128,35 145,0 145,102 128,137" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.07)" stroke-width="0.7"/>
+  <line x1="64" y1="35" x2="64" y2="137" stroke="rgba(255,255,255,0.06)" stroke-width="0.4"/>
+  <polygon points="0,35 64,35 56,18 -9,18" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.09)" stroke-width="0.5"/>
+  <polygon points="64,35 128,35 136,18 72,18" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.07)" stroke-width="0.5"/>
+</g>
+<line x1="58" y1="0" x2="58" y2="700" stroke="rgba(255,255,255,0.04)" stroke-width="0.5"/>
+</svg>
